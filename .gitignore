@@ -1,0 +1,9 @@
+*.log
+pids
+*.pid
+*.seed
+*.pid.lock
+.npm
+*.tgz
+.env
+node_modules/
